@@ -1,0 +1,21 @@
+.title {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.main_content {
+    padding: 20px;
+}
+
+nav {
+    background-color: #000;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
